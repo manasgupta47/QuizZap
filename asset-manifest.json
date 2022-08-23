@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/QuizZap/static/css/main.4283b79d.css",
+    "main.js": "/QuizZap/static/js/main.76a61456.js",
+    "static/media/ques1.png": "/QuizZap/static/media/ques1.fe1684c8e94fd85a54bf.png",
+    "index.html": "/QuizZap/index.html",
+    "main.4283b79d.css.map": "/QuizZap/static/css/main.4283b79d.css.map",
+    "main.76a61456.js.map": "/QuizZap/static/js/main.76a61456.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4283b79d.css",
+    "static/js/main.76a61456.js"
+  ]
+}

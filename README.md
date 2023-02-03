@@ -1,3 +1,6 @@
+#Info
+In this QuizApp I use HTML, CSS, JAVASCRIPT, REACTJS. Here there is some fields you can choose any type of field and the difficulty level of the Quiz and after click on the Go button there is some Question coming on the screen you can choose the answer, after submitting the Quiz the website calculate the Score and show to the user.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
